@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/personal-site/static/css/main.c792b4d4.chunk.css",
-    "main.js": "/personal-site/static/js/main.10030b4c.chunk.js",
-    "main.js.map": "/personal-site/static/js/main.10030b4c.chunk.js.map",
+    "main.css": "/personal-site/static/css/main.cd599254.chunk.css",
+    "main.js": "/personal-site/static/js/main.7b2a1ecf.chunk.js",
+    "main.js.map": "/personal-site/static/js/main.7b2a1ecf.chunk.js.map",
     "runtime-main.js": "/personal-site/static/js/runtime-main.5ae888f7.js",
     "runtime-main.js.map": "/personal-site/static/js/runtime-main.5ae888f7.js.map",
-    "static/js/2.069f40eb.chunk.js": "/personal-site/static/js/2.069f40eb.chunk.js",
-    "static/js/2.069f40eb.chunk.js.map": "/personal-site/static/js/2.069f40eb.chunk.js.map",
+    "static/js/2.d213c232.chunk.js": "/personal-site/static/js/2.d213c232.chunk.js",
+    "static/js/2.d213c232.chunk.js.map": "/personal-site/static/js/2.d213c232.chunk.js.map",
     "index.html": "/personal-site/index.html",
-    "static/css/main.c792b4d4.chunk.css.map": "/personal-site/static/css/main.c792b4d4.chunk.css.map",
-    "static/js/2.069f40eb.chunk.js.LICENSE.txt": "/personal-site/static/js/2.069f40eb.chunk.js.LICENSE.txt",
+    "static/css/main.cd599254.chunk.css.map": "/personal-site/static/css/main.cd599254.chunk.css.map",
+    "static/js/2.d213c232.chunk.js.LICENSE.txt": "/personal-site/static/js/2.d213c232.chunk.js.LICENSE.txt",
     "static/media/Calc.47d1a65f.png": "/personal-site/static/media/Calc.47d1a65f.png",
     "static/media/Microsoft_Office_Access.b14b04db.svg": "/personal-site/static/media/Microsoft_Office_Access.b14b04db.svg",
-    "static/media/accenture-3.e4f4c2d1.png": "/personal-site/static/media/accenture-3.e4f4c2d1.png",
+    "static/media/accenture-3.caf31920.png": "/personal-site/static/media/accenture-3.caf31920.png",
     "static/media/background.webp": "/personal-site/static/media/background.f6814621.webp",
     "static/media/bootstrap-4.997c463d.svg": "/personal-site/static/media/bootstrap-4.997c463d.svg",
     "static/media/c.a6e28c9c.svg": "/personal-site/static/media/c.a6e28c9c.svg",
@@ -21,8 +21,10 @@
     "static/media/digital-ocean.744a6973.svg": "/personal-site/static/media/digital-ocean.744a6973.svg",
     "static/media/django.0779fca2.svg": "/personal-site/static/media/django.0779fca2.svg",
     "static/media/eclipse.62dfd01a.svg": "/personal-site/static/media/eclipse.62dfd01a.svg",
+    "static/media/genesys-vector-logo.e373655b.svg": "/personal-site/static/media/genesys-vector-logo.e373655b.svg",
     "static/media/git-icon.c60b7e5a.svg": "/personal-site/static/media/git-icon.c60b7e5a.svg",
     "static/media/heroku.73be03b3.svg": "/personal-site/static/media/heroku.73be03b3.svg",
+    "static/media/home.c9f5b72b.jpg": "/personal-site/static/media/home.c9f5b72b.jpg",
     "static/media/html-5.821ba738.svg": "/personal-site/static/media/html-5.821ba738.svg",
     "static/media/java (3).83165dfb.svg": "/personal-site/static/media/java (3).83165dfb.svg",
     "static/media/java.5e8cb917.svg": "/personal-site/static/media/java.5e8cb917.svg",
@@ -49,8 +51,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5ae888f7.js",
-    "static/js/2.069f40eb.chunk.js",
-    "static/css/main.c792b4d4.chunk.css",
-    "static/js/main.10030b4c.chunk.js"
+    "static/js/2.d213c232.chunk.js",
+    "static/css/main.cd599254.chunk.css",
+    "static/js/main.7b2a1ecf.chunk.js"
   ]
 }
